@@ -23,6 +23,7 @@ Project ini adalah tugas Praktikum 2 untuk mata kuliah Deployment Perangkat Luna
 ![img_5.png](img_5.png)
 ![img_6.png](img_6.png)
 ![img_7.png](img_7.png)
+![img_8.png](img_8.png)
 
 ## 👤 Identitas Mahasiswa
 - **Nama:** Nashrul Fikri
